@@ -33,5 +33,5 @@ def draw_plot():
     # Salvar a figura com o nome exigido
     fig.savefig("sea_level_plot.png")
 
-    # ⚠️ Retorne o AXES (não a figure)
+    # Retorne o AXES (não a figure)
     return ax
